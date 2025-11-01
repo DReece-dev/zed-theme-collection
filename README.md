@@ -1,4 +1,4 @@
-# Awesome Zed Themes
+# Zed theme collection
 
 A curated collection of beautiful themes for the [Zed Text Editor](https://zed.dev).
 
@@ -45,4 +45,4 @@ When creating new themes, you can refer to the official Zed documentation on [th
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
