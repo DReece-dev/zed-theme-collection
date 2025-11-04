@@ -1,0 +1,132 @@
+{
+    "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+    "name": "Monochrome Pro",
+    "author": "Dylan Reece",
+    "themes": [
+        {
+            "name": "Monochrome Pro - 2",
+            "appearance": "dark",
+            "style": {
+                "background": "#0f0f0f",
+                "foreground": "#f5f5f5",
+                "editor.background": "#0f0f0f",
+                "editor.foreground": "#f5f5f5",
+                "editor.line_number": "#606060",
+                "editor.active_line_number": "#e0e0e0",
+                "editor.active_line.background": "#1a1a1a",
+                "editor.gutter.background": "#0f0f0f",
+                "border": "#303030",
+                "border.variant": "#1a1a1a",
+                "text": "#f5f5f5",
+                "text.muted": "#909090",
+                "text.placeholder": "#606060",
+                "text.accent": "#ffffff",
+                "surface.background": "#0a0a0a",
+                "elevated_surface.background": "#202020",
+                "element.background": "#303030",
+                "element.hover": "#404040",
+                "element.active": "#505050",
+                "element.selected": "#353535",
+                "ghost_element.hover": "#404040",
+                "ghost_element.selected": "#353535",
+                "tab_bar.background": "#0f0f0f",
+                "tab.inactive_background": "#0f0f0f",
+                "tab.active_background": "#1a1a1a",
+                "status_bar.background": "#0f0f0f",
+                "title_bar.background": "#0f0f0f",
+                "panel.background": "#0a0a0a",
+                "toolbar.background": "#0f0f0f",
+                "scrollbar.thumb.background": "#303030",
+                "scrollbar.track.background": "#0f0f0f",
+                "error": "#ff4444",
+                "error.background": "#3d1111",
+                "warning": "#ffcc44",
+                "warning.background": "#3d2d11",
+                "info": "#4488ff",
+                "info.background": "#11223d",
+                "success": "#44ff88",
+                "success.background": "#113d22",
+                "modified": "#ffcc44",
+                "created": "#44ff88",
+                "deleted": "#ff4444",
+                "conflict": "#ff8844",
+                "ignored": "#606060",
+                "syntax": {
+                    "comment": {
+                        "color": "#707070",
+                        "font_style": "italic"
+                    },
+                    "comment.doc": {
+                        "color": "#808080",
+                        "font_style": "italic"
+                    },
+                    "constant": {
+                        "color": "#d0d0d0",
+                        "font_weight": 600
+                    },
+                    "constant.builtin": {
+                        "color": "#c0c0c0",
+                        "font_weight": 600
+                    },
+                    "constructor": {
+                        "color": "#e0e0e0",
+                        "font_weight": 700
+                    },
+                    "function": {
+                        "color": "#e0e0e0",
+                        "font_weight": 700
+                    },
+                    "keyword": {
+                        "color": "#ffffff",
+                        "font_weight": 700
+                    },
+                    "number": {
+                        "color": "#c0c0c0",
+                        "font_weight": 600
+                    },
+                    "operator": {
+                        "color": "#b0b0b0"
+                    },
+                    "property": {
+                        "color": "#d0d0d0"
+                    },
+                    "punctuation": {
+                        "color": "#a0a0a0"
+                    },
+                    "punctuation.bracket": {
+                        "color": "#b0b0b0"
+                    },
+                    "punctuation.delimiter": {
+                        "color": "#a0a0a0"
+                    },
+                    "string": {
+                        "color": "#d5d5d5"
+                    },
+                    "string.escape": {
+                        "color": "#c0c0c0",
+                        "font_weight": 600
+                    },
+                    "string.regex": {
+                        "color": "#e0e0e0",
+                        "font_weight": 600
+                    },
+                    "tag": {
+                        "color": "#ffffff",
+                        "font_weight": 700
+                    },
+                    "type": {
+                        "color": "#d5d5d5",
+                        "font_weight": 600
+                    },
+                    "variable": {
+                        "color": "#f5f5f5"
+                    },
+                    "variable.special": {
+                        "color": "#ffffff",
+                        "font_weight": 700
+                    }
+                }
+            }
+        }
+    ]
+}

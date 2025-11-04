@@ -1,0 +1,123 @@
+{
+    "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+    "name": "Arctic Night",
+    "author": "Dylan Reece",
+    "themes": [
+        {
+            "name": "Arctic Night",
+            "appearance": "dark",
+            "style": {
+                "background": "#0a0e14",
+                "foreground": "#e6f1ff",
+                "editor.background": "#0a0e14",
+                "editor.foreground": "#e6f1ff",
+                "editor.line_number": "#4a5f7a",
+                "editor.active_line_number": "#8fbcff",
+                "editor.active_line.background": "#0f1419",
+                "editor.gutter.background": "#0a0e14",
+                "border": "#1a2332",
+                "border.variant": "#0f1419",
+                "text": "#e6f1ff",
+                "text.muted": "#7a8a99",
+                "text.placeholder": "#4a5f7a",
+                "text.accent": "#5ccfe6",
+                "surface.background": "#0d1117",
+                "elevated_surface.background": "#151b23",
+                "element.background": "#1a2332",
+                "element.hover": "#1f2937",
+                "element.active": "#2d3748",
+                "element.selected": "#1e3a5f",
+                "ghost_element.hover": "#1f2937",
+                "ghost_element.selected": "#1e3a5f",
+                "tab_bar.background": "#0a0e14",
+                "tab.inactive_background": "#0a0e14",
+                "tab.active_background": "#0f1419",
+                "status_bar.background": "#0a0e14",
+                "title_bar.background": "#0a0e14",
+                "panel.background": "#0d1117",
+                "toolbar.background": "#0a0e14",
+                "scrollbar.thumb.background": "#1a2332",
+                "scrollbar.track.background": "#0a0e14",
+                "error": "#ff5370",
+                "error.background": "#3d1f1f",
+                "warning": "#ffcb6b",
+                "warning.background": "#3d331f",
+                "info": "#82aaff",
+                "info.background": "#1f2d3d",
+                "success": "#c3e88d",
+                "success.background": "#1f3d1f",
+                "modified": "#ffcb6b",
+                "created": "#c3e88d",
+                "deleted": "#ff5370",
+                "conflict": "#f78c6c",
+                "ignored": "#4a5f7a",
+                "syntax": {
+                    "comment": {
+                        "color": "#5f697a",
+                        "font_style": "italic"
+                    },
+                    "comment.doc": {
+                        "color": "#6a7a8f",
+                        "font_style": "italic"
+                    },
+                    "constant": {
+                        "color": "#ffcb6b"
+                    },
+                    "constant.builtin": {
+                        "color": "#f78c6c"
+                    },
+                    "constructor": {
+                        "color": "#82aaff"
+                    },
+                    "function": {
+                        "color": "#82aaff",
+                        "font_weight": 600
+                    },
+                    "keyword": {
+                        "color": "#c792ea",
+                        "font_weight": 600
+                    },
+                    "number": {
+                        "color": "#f78c6c"
+                    },
+                    "operator": {
+                        "color": "#89ddff"
+                    },
+                    "property": {
+                        "color": "#f07178"
+                    },
+                    "punctuation": {
+                        "color": "#89ddff"
+                    },
+                    "punctuation.bracket": {
+                        "color": "#89ddff"
+                    },
+                    "punctuation.delimiter": {
+                        "color": "#89ddff"
+                    },
+                    "string": {
+                        "color": "#c3e88d"
+                    },
+                    "string.escape": {
+                        "color": "#f78c6c"
+                    },
+                    "string.regex": {
+                        "color": "#5ccfe6"
+                    },
+                    "tag": {
+                        "color": "#f07178"
+                    },
+                    "type": {
+                        "color": "#ffcb6b"
+                    },
+                    "variable": {
+                        "color": "#e6f1ff"
+                    },
+                    "variable.special": {
+                        "color": "#ff5370"
+                    }
+                }
+            }
+        }
+    ]
+}
